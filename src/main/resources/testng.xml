@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="p1109 R_Auction Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.QA.R_Auction.ExtentReportListner.ExtentReportListener" />
+	</listeners>
+
+
+	<test name="p1109 R_Auction App Test Cases">
+		<classes>
+			<class name="com.Best.ReverseAuction.p1109.TC_001LoginTest"></class>
+		</classes>
+	</test>
+</suite>	

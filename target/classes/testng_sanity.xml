@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="p1109 R_Auction Application Test Automation Test Suite">
+	<test name="p1109 R_Auction App Test Cases">
+		<classes>
+			<class name="com.Best.ReverseAuction.p1109.TC_001LoginTest"></class>
+			<!--  class name="com.crm.qa.testcases.HomePageTest"></class>-->
+			
+		</classes>
+	</test>
+</suite>

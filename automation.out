@@ -1,0 +1,162 @@
+2018-01-15 15:27:19 INFO  TC_001LoginTest:37 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-15 15:27:20 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-15 15:27:20 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (64787ea2-45ca-4ae4-bdf1-674365a2eb38)] -> name: email]
+2018-01-15 15:27:20 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[FirefoxDriver: firefox on XP (64787ea2-45ca-4ae4-bdf1-674365a2eb38)] -> name: password]
+2018-01-15 15:27:21 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (64787ea2-45ca-4ae4-bdf1-674365a2eb38)] -> name: remember]
+2018-01-15 15:27:22 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (64787ea2-45ca-4ae4-bdf1-674365a2eb38)] -> xpath: //button[@type='submit']]
+2018-01-15 15:27:22 INFO  TC_001LoginTest:42 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-15 15:33:40 INFO  TC_001LoginTest:37 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-15 15:33:41 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-15 15:33:41 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (2a8f90e8-0548-40c7-8c3e-5ccc78eb8348)] -> name: email]
+2018-01-15 15:33:41 INFO  LoginPage:51 - entered user password: 123456 and object/locator is: [[FirefoxDriver: firefox on XP (2a8f90e8-0548-40c7-8c3e-5ccc78eb8348)] -> name: password]
+2018-01-15 15:33:41 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (2a8f90e8-0548-40c7-8c3e-5ccc78eb8348)] -> name: remember]
+2018-01-16 16:31:31 INFO  TC_001LoginTest:37 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-16 16:31:33 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-16 16:31:33 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (ebae01a1-3195-4fc2-b2d5-36195c74ce25)] -> name: email]
+2018-01-16 16:31:33 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[FirefoxDriver: firefox on XP (ebae01a1-3195-4fc2-b2d5-36195c74ce25)] -> name: password]
+2018-01-16 16:31:33 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (ebae01a1-3195-4fc2-b2d5-36195c74ce25)] -> name: remember]
+2018-01-16 16:31:35 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (ebae01a1-3195-4fc2-b2d5-36195c74ce25)] -> xpath: //button[@type='submit']]
+2018-01-16 16:31:35 INFO  TC_001LoginTest:42 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:05:45 INFO  TC_001LoginTest:38 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:05:46 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:05:47 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (342d33f1-06ad-4bf7-9648-7018332c6e51)] -> name: email]
+2018-01-17 11:05:49 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[FirefoxDriver: firefox on XP (342d33f1-06ad-4bf7-9648-7018332c6e51)] -> name: password]
+2018-01-17 11:05:49 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (342d33f1-06ad-4bf7-9648-7018332c6e51)] -> name: remember]
+2018-01-17 11:05:50 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (342d33f1-06ad-4bf7-9648-7018332c6e51)] -> xpath: //button[@type='submit']]
+2018-01-17 11:05:50 INFO  TC_001LoginTest:43 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:08:50 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:08:51 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:08:51 INFO  LoginPage:49 - entered user email: dabbu@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: email]
+2018-01-17 11:08:51 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: password]
+2018-01-17 11:08:51 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: remember]
+2018-01-17 11:08:53 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> xpath: //button[@type='submit']]
+2018-01-17 11:08:53 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:08:53 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:08:53 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:08:54 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: email]
+2018-01-17 11:08:54 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: password]
+2018-01-17 11:08:54 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: remember]
+2018-01-17 11:08:55 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> xpath: //button[@type='submit']]
+2018-01-17 11:08:55 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:08:55 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:08:56 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:08:56 INFO  LoginPage:49 - entered user email:  and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: email]
+2018-01-17 11:08:56 INFO  LoginPage:51 - entered user password:  and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: password]
+2018-01-17 11:08:56 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> name: remember]
+2018-01-17 11:08:56 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (fc040851-2398-4123-be12-442c50f8ad96)] -> xpath: //button[@type='submit']]
+2018-01-17 11:09:03 INFO  TC_001LoginTest:39 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:09:44 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:09:44 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:09:45 INFO  LoginPage:49 - entered user email: dabbu@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: email]
+2018-01-17 11:09:45 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: password]
+2018-01-17 11:09:45 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: remember]
+2018-01-17 11:09:47 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> xpath: //button[@type='submit']]
+2018-01-17 11:09:47 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:09:47 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:09:47 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:09:48 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: email]
+2018-01-17 11:09:48 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: password]
+2018-01-17 11:09:48 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: remember]
+2018-01-17 11:09:49 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> xpath: //button[@type='submit']]
+2018-01-17 11:09:49 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:09:49 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:09:49 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:09:49 INFO  LoginPage:49 - entered user email:  and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: email]
+2018-01-17 11:09:49 INFO  LoginPage:51 - entered user password:  and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: password]
+2018-01-17 11:09:50 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: remember]
+2018-01-17 11:09:50 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> xpath: //button[@type='submit']]
+2018-01-17 11:10:20 INFO  TC_001LoginTest:39 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:10:21 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:10:21 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: email]
+2018-01-17 11:10:21 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: password]
+2018-01-17 11:10:21 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> name: remember]
+2018-01-17 11:10:22 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (8b5f0ef5-ee47-428d-83fc-b35edb06ebfb)] -> xpath: //button[@type='submit']]
+2018-01-17 11:10:22 INFO  TC_001LoginTest:44 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:12:16 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:12:17 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:12:17 INFO  LoginPage:49 - entered user email: dabbu@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: email]
+2018-01-17 11:12:17 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: password]
+2018-01-17 11:12:18 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: remember]
+2018-01-17 11:12:19 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> xpath: //button[@type='submit']]
+2018-01-17 11:12:19 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:12:19 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:12:20 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:12:20 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: email]
+2018-01-17 11:12:20 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: password]
+2018-01-17 11:12:20 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: remember]
+2018-01-17 11:12:21 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> xpath: //button[@type='submit']]
+2018-01-17 11:12:21 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:12:21 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:12:22 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:12:22 INFO  LoginPage:49 - entered user email:  and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: email]
+2018-01-17 11:12:22 INFO  LoginPage:51 - entered user password:  and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: password]
+2018-01-17 11:12:22 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: remember]
+2018-01-17 11:12:22 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> xpath: //button[@type='submit']]
+2018-01-17 11:12:52 INFO  TC_001LoginTest:39 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:12:53 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:12:53 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: email]
+2018-01-17 11:12:53 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: password]
+2018-01-17 11:12:53 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> name: remember]
+2018-01-17 11:12:54 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (a52617cd-4c65-425d-84a2-0ca384644a55)] -> xpath: //button[@type='submit']]
+2018-01-17 11:12:54 INFO  TC_001LoginTest:44 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:13:32 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:13:33 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:13:33 INFO  LoginPage:49 - entered user email: dabbu@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: email]
+2018-01-17 11:13:33 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: password]
+2018-01-17 11:13:34 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: remember]
+2018-01-17 11:13:35 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> xpath: //button[@type='submit']]
+2018-01-17 11:13:35 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:13:35 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:13:36 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:13:36 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: email]
+2018-01-17 11:13:36 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: password]
+2018-01-17 11:13:36 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: remember]
+2018-01-17 11:13:37 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> xpath: //button[@type='submit']]
+2018-01-17 11:13:37 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:13:37 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:13:37 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:13:38 INFO  LoginPage:49 - entered user email:  and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: email]
+2018-01-17 11:13:38 INFO  LoginPage:51 - entered user password:  and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: password]
+2018-01-17 11:13:38 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> name: remember]
+2018-01-17 11:13:38 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (edc87709-2945-4f3c-9bdf-8e6f2a760385)] -> xpath: //button[@type='submit']]
+2018-01-17 11:14:14 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:14:15 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:14:15 INFO  LoginPage:49 - entered user email: dabbu@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: email]
+2018-01-17 11:14:15 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: password]
+2018-01-17 11:14:16 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: remember]
+2018-01-17 11:14:17 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> xpath: //button[@type='submit']]
+2018-01-17 11:14:17 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:14:17 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:14:17 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:14:18 INFO  LoginPage:49 - entered user email: alok@gmail.com and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: email]
+2018-01-17 11:14:18 INFO  LoginPage:51 - entered user password: 123456.0 and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: password]
+2018-01-17 11:14:18 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: remember]
+2018-01-17 11:14:19 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> xpath: //button[@type='submit']]
+2018-01-17 11:14:19 INFO  TC_001LoginTest:62 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-17 11:14:19 INFO  TC_001LoginTest:57 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-17 11:14:19 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-17 11:14:20 INFO  LoginPage:49 - entered user email:  and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: email]
+2018-01-17 11:14:20 INFO  LoginPage:51 - entered user password:  and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: password]
+2018-01-17 11:14:20 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> name: remember]
+2018-01-17 11:14:20 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[FirefoxDriver: firefox on XP (958c053a-f089-4de3-95f2-82a8e63b5910)] -> xpath: //button[@type='submit']]
+2018-01-22 12:32:53 INFO  TC_001LoginTest:38 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-22 12:32:54 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-22 12:32:54 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[ChromeDriver: chrome on XP (f83095c54c14f6dc813289cfe51b1834)] -> name: email]
+2018-01-22 12:32:54 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[ChromeDriver: chrome on XP (f83095c54c14f6dc813289cfe51b1834)] -> name: password]
+2018-01-22 12:32:54 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[ChromeDriver: chrome on XP (f83095c54c14f6dc813289cfe51b1834)] -> name: remember]
+2018-01-22 12:32:56 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[ChromeDriver: chrome on XP (f83095c54c14f6dc813289cfe51b1834)] -> xpath: //button[@type='submit']]
+2018-01-22 12:32:56 INFO  TC_001LoginTest:43 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-01-22 12:34:16 INFO  TC_001LoginTest:38 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-01-22 12:34:17 INFO  HomePage:32 - Clicked on LOGIN button.
+2018-01-22 12:34:17 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[ChromeDriver: chrome on XP (3db30b97c1bc632e4098021e1f6976b7)] -> name: email]
+2018-01-22 12:34:17 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[ChromeDriver: chrome on XP (3db30b97c1bc632e4098021e1f6976b7)] -> name: password]
+2018-01-22 12:34:17 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[ChromeDriver: chrome on XP (3db30b97c1bc632e4098021e1f6976b7)] -> name: remember]
+2018-01-22 12:34:18 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[ChromeDriver: chrome on XP (3db30b97c1bc632e4098021e1f6976b7)] -> xpath: //button[@type='submit']]
+2018-01-22 12:34:18 INFO  TC_001LoginTest:43 - <***********>Finish verify_InvalidLoginTest <***********>
+2018-02-06 18:10:20 INFO  TC_001LoginTest:38 - <***********>Starting verify_InvalidLoginTest <***********>
+2018-02-06 18:10:21 INFO  HomePage:31 - Clicked on LOGIN button.
+2018-02-06 18:10:21 INFO  LoginPage:49 - entered user email: alokr@gmail.com and object/locator is: [[ChromeDriver: chrome on XP (bfa8f017b4ad506074e836dabca691e4)] -> name: email]
+2018-02-06 18:10:22 INFO  LoginPage:51 - entered user password: 1234567 and object/locator is: [[ChromeDriver: chrome on XP (bfa8f017b4ad506074e836dabca691e4)] -> name: password]
+2018-02-06 18:10:22 INFO  LoginPage:53 - click on remember me !! and object/locator is: [[ChromeDriver: chrome on XP (bfa8f017b4ad506074e836dabca691e4)] -> name: remember]
+2018-02-06 18:10:22 INFO  LoginPage:55 - click on Login Btton !! and object/locator is: [[ChromeDriver: chrome on XP (bfa8f017b4ad506074e836dabca691e4)] -> xpath: //button[@type='submit']]
+2018-02-06 18:10:23 INFO  TC_001LoginTest:43 - <***********>Finish verify_InvalidLoginTest <***********>
